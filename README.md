@@ -11,7 +11,3 @@
 >| Level 2 | | |
 >| Level 3 | | | 
 >| Level 4 | | |
-
-### About Me
-
-> Hi everyone! I’m [**Naswih Abdurahiman**](https://naswih.netlify.app/), 2nd year BSc. Computer Science student from [**SIAS**](https://sias.edu.in/). I also an Intern at [**TinkerHub**](https://tinkerhub.org/). I’m here to explore new dimensions of the IoT world.
