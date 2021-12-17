@@ -7,7 +7,7 @@
 ### Table of Write-ups
 >| Challenge | Topic | Links |
 >| --- | --- | --- |
->| Level 1 | Arduino & Basic Electronics | [Documentation](https://naxwh.github.io/Kerala-IoT-Challenge/pages/level_1) |
+>| Level 1 | Arduino & Basic Electronics | [Documentation](https://naxwh.github.io/Kerala-IoT-Challenge/level_1) |
 >| Level 2 | | |
 >| Level 3 | | | 
 >| Level 4 | | |
