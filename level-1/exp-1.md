@@ -35,4 +35,5 @@ delay(1000); // wait for a second
 ### Output
 
 > The LED blinked with a time interval of 1 second.
-![]()
+
+![loading](https://user-images.githubusercontent.com/51323070/146673156-df307713-2ec1-46dd-9e6f-5bd0c7afc81f.gif)
