@@ -27,7 +27,7 @@
 
 ### Code
 
-```
+```ino
 const int ledPin = 13;
 const int ldrPin = A0;
 void setup() {
