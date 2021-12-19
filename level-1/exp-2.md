@@ -50,6 +50,6 @@ digitalWrite(redled, LOW);// turn off red LED
 
 ### Output
 
-> In the Traffic light, the green LED blinked for about 5 seconds, then it turned off. Then the yellow LED blinks 3 times with a time interval of 0.5 seconds. Then the red LED blinked for about 5 seconds. This process continues.
+> The green LED blinked for about 5 seconds, then it turned off. Then the yellow LED blinks 3 times with a time interval of 0.5 seconds. Then the red LED blinked for about 5 seconds. And this process repeats.
 
 ![loading](https://user-images.githubusercontent.com/51323070/146673156-df307713-2ec1-46dd-9e6f-5bd0c7afc81f.gif)
