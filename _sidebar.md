@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-<h1><a href="" >Kerala IoT Challenge</a></h1>
+<h2><a href="" >Kerala IoT Challenge</a></h2>
 
 * [ABOUT](about)
 
