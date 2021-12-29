@@ -1,7 +1,5 @@
 <!-- docs/_sidebar.md -->
-<h1>&nbsp&nbsp Kerala IoT Challenge</h1>
-
-* [HOME]()
+<h1><a href="" >Kerala IoT Challenge</a></h1>
 
 * [ABOUT](about)
 
