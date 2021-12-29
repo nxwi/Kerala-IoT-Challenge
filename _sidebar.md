@@ -1,9 +1,9 @@
 <!-- docs/_sidebar.md -->
 <h2><a href="" >Kerala IoT Challenge</a></h2>
 
-* [ABOUT](about)
+* [About](about)
 
-* [LEVEL 1 : Basic Electronics & Arduino](level-1/main)
+* [Level 1 : Basic Electronics & Arduino](level-1/main)
   * [Experiment 1](level-1/exp-01)
   * [Experiment 2](level-1/exp-02)
   * [Experiment 3](level-1/exp-03)
@@ -17,4 +17,4 @@
   * [Experiment 11](level-1/exp-11)
   * [Experiment 12](level-1/exp-12)
 
-* [CONTACT](contact)
+* [Contact](contact)
