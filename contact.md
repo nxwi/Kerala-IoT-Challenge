@@ -1,3 +1,3 @@
 # Contact 
 
-To contact me, please create a [GitHub issue](https://github.com/naxwh/Kerala-IoT-Challenge/issues/new)!
+To contact me, please create a [GitHub issue](https://github.com/nasw1h/Kerala-IoT-Challenge/issues/new)!
